@@ -1,3 +1,4 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/xzy2022/GeoSeg)
 ## Version 2.0 (stable)
 
 [Welcome to my homepage!](https://WangLibo1995.github.io)
